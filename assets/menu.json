@@ -1,0 +1,1415 @@
+[
+  {
+    "id": 1763839828645,
+    "name": "ايس لاتيه",
+    "category": "ايس كوفي",
+    "price": 3000,
+    "imageUrl": "assets/images/c0ce9eb0-de9f-4dc5-afe7-abd3b2ebc569.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828646,
+    "name": "ايس لاتيه فانيلا",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/c0ce9eb0-de9f-4dc5-afe7-abd3b2ebc569.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828647,
+    "name": "ايس لاتيه كراميل",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/3195cf72-3ef4-4725-9dfd-1b181e7f2c38.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828648,
+    "name": "ايس لاتيه بندق",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/5e55d362-ee77-4fb9-83f5-e1f344dc297d.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828649,
+    "name": "ايس لاتيه بستاشيو",
+    "category": "ايس كوفي",
+    "price": 4000,
+    "imageUrl": "assets/images/6b1e291a-4c88-495f-8645-bac1fae301aa.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828650,
+    "name": "ايس لاتيه سبانش",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/91860641-5ef4-4fe5-9706-ad83ca8ca5e7.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828651,
+    "name": "ايس لاتيه كوكونت",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/91860641-5ef4-4fe5-9706-ad83ca8ca5e7.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828652,
+    "name": "ايس لاتيه ستروبيري",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/2ee9e3a8-b95b-4e46-95f7-0938431b0797.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828653,
+    "name": "ايس لاتيه بلو",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/8d7c1fb0-93b5-4a20-bfd5-2114736ade65.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828654,
+    "name": "ايس موكا",
+    "category": "ايس كوفي",
+    "price": 3500,
+    "imageUrl": "assets/images/dfb8b321-f1f6-44cb-8a5c-8b361c1037fa.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828655,
+    "name": "ايس امريكانو",
+    "category": "ايس كوفي",
+    "price": 3000,
+    "imageUrl": "assets/images/3905dea0-6b85-4814-867d-db739b70db32.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828656,
+    "name": "ميلك شيك نوتيلا",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/8804108d-1ac5-454f-991e-adc8b4d0a26e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828657,
+    "name": "ميلك شيك فراولة",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/3ef2fe68-dc33-4de2-9970-fafd07d4a9bb.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828658,
+    "name": "ميلك شيك لوتس",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/2e082d22-f4ab-4ca3-85a7-5391f64089f8.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828659,
+    "name": "ميلك شيك كندر",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/5da7b106-db2b-4ead-a52f-5f93fecb1e5a.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828660,
+    "name": "ميلك شيك اوريو",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/b2ad3e55-0a61-40c9-9d29-097de8432c7c.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828661,
+    "name": "ميلك شيك بستاشيو",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/9e579f21-a1f3-4822-8134-63097766b618.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828662,
+    "name": "ميلك شيك فانيلا",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/e83ed28e-1995-49cc-a127-cdfb16910a6e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828663,
+    "name": "ميلك شيك مكسرات",
+    "category": "ميلك شيك",
+    "price": 5000,
+    "imageUrl": "assets/images/7bb9ec3d-e97c-4aba-b29c-6998b4586a58.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828664,
+    "name": "موهيتو فراولة",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1481.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828665,
+    "name": "موهيتو ليمون",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1482.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828666,
+    "name": "موهيتو بلو",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1480.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828667,
+    "name": "موهيتو بلوبيري",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1479.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828668,
+    "name": "موهيتو باشن فروت",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1478.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828669,
+    "name": "موهيتو منجا",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1477.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828670,
+    "name": "موهيتو خوخ",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1476.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828671,
+    "name": "موهيتو اناناس",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1475.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828672,
+    "name": "موهيتو كيوي",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1474.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828673,
+    "name": "موهيتو ليمون ونعناع",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1473.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828674,
+    "name": "سموذي فراولة",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/da76b752-3e26-422c-b161-4acc7250c6e2.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828675,
+    "name": "سموذي ليمون",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/cf8788e6-55cf-4316-a4d2-4c2f0be8fa0d.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828676,
+    "name": "سموذي بلو",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/b3953d50-d930-4d41-a8d0-a149ea145377.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828677,
+    "name": "سموذي بلوبيري",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/c81233a0-5996-4230-95f3-0e784c11ef70.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828678,
+    "name": "سموذي باشن فروت",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/aed28d2b-4fde-44b9-8cea-ed62c0270b05.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828679,
+    "name": "سموذي منجا",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/fd47009a-733d-498e-98b4-d2e4b380b33b.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828680,
+    "name": "سموذي خوخ",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/d1672e1f-556f-4be0-bba2-bbeb818513f4.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828681,
+    "name": "سموذي اناناس",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/5ee13a13-df2f-4422-85f6-c4ee80346614.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828682,
+    "name": "سموذي كيوي",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/bf9fe98f-a314-495d-b749-bcabe46c8f3a.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828683,
+    "name": "سموذي ليمون ونعناع",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/cf8788e6-55cf-4316-a4d2-4c2f0be8fa0d.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828684,
+    "name": "سموذي موز فراولة",
+    "category": "السموذي",
+    "price": 3000,
+    "imageUrl": "assets/images/a8883c0b-1fb7-4aca-a167-0aac83725545.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828685,
+    "name": "برتقال",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/5a773110-61d6-4557-b48b-b819c430b888.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828686,
+    "name": "ليمون",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/9a56cf0f-ce05-4067-b93a-94b74d1645cc.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828687,
+    "name": "ليمون ونعناع",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/07385f46-1878-41fc-8817-dd25112f22ce.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828688,
+    "name": "رمان",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/0a5efcbd-56b5-40f5-a1bc-2c6630549c95.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828689,
+    "name": "كيوي",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/4b7892a1-49e2-4f0b-94f5-295a171ff36e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828690,
+    "name": "مرز وحليب",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/947c5192-71c9-43b4-8215-d468118f2d8e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828691,
+    "name": "موز ونوتيلا",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/1e84c205-5760-417d-8137-5a48aaf5a52f.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828692,
+    "name": "موز وفراوله",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/31cd70b4-609e-41f8-9f37-4c12d05f763f.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828693,
+    "name": "اناناس",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/8ce03ed0-90b2-4781-bf60-ac34b85a1b76.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828694,
+    "name": "منكا",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/44bfcc23-e216-4ea1-aaf7-beb1b734bcb2.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828695,
+    "name": "تفاح اخضر",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/177d894a-0894-42fe-bebf-4aafd02b9b0b.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828696,
+    "name": "بطيخ",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/23c32f80-ea0b-4a71-9ce5-d3f4289ba0d7.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828697,
+    "name": "خوخ",
+    "category": "العصائر الطبيعية",
+    "price": 3000,
+    "imageUrl": "assets/images/8ce03ed0-90b2-4781-bf60-ac34b85a1b76.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828698,
+    "name": "فراوله",
+    "category": "العصائر الطبيعية",
+    "price": 4000,
+    "imageUrl": "assets/images/522658ee-4659-48bd-9da0-e8b018180b7e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828699,
+    "name": "كوكتيل طبيعي",
+    "category": "الكوكتيلات",
+    "price": 4000,
+    "imageUrl": "assets/images/7fb8d24a-2400-4ff7-8f9f-3f88738e77c8.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828700,
+    "name": "كوكتيل حمضيات طبيعي",
+    "category": "الكوكتيلات",
+    "price": 4000,
+    "imageUrl": "assets/images/85798147-fcf4-4f0b-a0a5-88e2a3a124f4.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828701,
+    "name": "كوكتيل منجا وفراولة",
+    "category": "الكوكتيلات",
+    "price": 4000,
+    "imageUrl": "assets/images/3fc592f3-c366-4b81-9534-4e6d5aacdc62.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828702,
+    "name": "كوكتيل برتقال وليمون",
+    "category": "الكوكتيلات",
+    "price": 4000,
+    "imageUrl": "assets/images/c176958b-1e7a-490f-919a-5defef3534c8.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828703,
+    "name": "ماء",
+    "category": "المشروبات الغازية",
+    "price": 500,
+    "imageUrl": "assets/images/IMG_1609.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828704,
+    "name": "تايكر",
+    "category": "المشروبات الغازية",
+    "price": 2000,
+    "imageUrl": "assets/images/52B00C1E-CCAD-48BE-BB6F-67D11E865906.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828705,
+    "name": "ريد بول",
+    "category": "المشروبات الغازية",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_1610.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828706,
+    "name": "كولا",
+    "category": "المشروبات الغازية",
+    "price": 1000,
+    "imageUrl": "assets/images/IMG_1612.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828707,
+    "name": "سفن",
+    "category": "المشروبات الغازية",
+    "price": 1000,
+    "imageUrl": "assets/images/IMG_1613.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828708,
+    "name": "ميرندا",
+    "category": "المشروبات الغازية",
+    "price": 1000,
+    "imageUrl": "assets/images/IMG_1614.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828709,
+    "name": "باربيكان",
+    "category": "المشروبات الغازية",
+    "price": 2000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828710,
+    "name": "فريز",
+    "category": "المشروبات الغازية",
+    "price": 2000,
+    "imageUrl": "assets/images/IMG_1616.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828711,
+    "name": "مكسيكي ليمون",
+    "category": "مكسيكي",
+    "price": 3000,
+    "imageUrl": "assets/images/6a22e7a7-692b-40b4-ad35-ef14c5249088.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828712,
+    "name": "مكسكي رمان",
+    "category": "مكسيكي",
+    "price": 3000,
+    "imageUrl": "assets/images/5c83d2c4-49db-4d5c-8b40-f256ce949a90.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828713,
+    "name": "مكسيكي برتقال",
+    "category": "مكسيكي",
+    "price": 3000,
+    "imageUrl": "assets/images/a828e4ba-46ae-411e-b104-330841ffd299.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828714,
+    "name": "ريد بول مكسيكي ليمون",
+    "category": "مكسيكي",
+    "price": 4000,
+    "imageUrl": "assets/images/d02a9354-639e-4cfc-8815-8478c15adc26.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828715,
+    "name": "ريد بول مكسيكي رمان",
+    "category": "مكسيكي",
+    "price": 4000,
+    "imageUrl": "assets/images/ea617588-4c0b-4682-9e8c-e8068d68113b.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828716,
+    "name": "ريد بول مكسيكي برتقال",
+    "category": "مكسيكي",
+    "price": 4000,
+    "imageUrl": "assets/images/22a96a2f-ec5c-4bce-a60c-7050e4b3d68c.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828717,
+    "name": "كريب نوتيلا",
+    "category": "كريب",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1456.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828718,
+    "name": "كريب بستاشيو",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1457.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828719,
+    "name": "كريب لوتس",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1511.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828720,
+    "name": "كريب مكسرات",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1455.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828721,
+    "name": "كريب كندر",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1510.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828722,
+    "name": "كريب اوريو",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1458.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828723,
+    "name": "كريب فواكه",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1460.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828724,
+    "name": "كريب ميكس",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1463.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828725,
+    "name": "كريب بنانا رول",
+    "category": "كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1462.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828726,
+    "name": "ببلز نوتيلا",
+    "category": "ببلز",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1536.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828727,
+    "name": "ببلز لوتس",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1537.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828728,
+    "name": "ببلز بستاشيو",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1538.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828729,
+    "name": "ببلز ميكس",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1539.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828730,
+    "name": "ببلز كندر",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1541.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828731,
+    "name": "ببلز اوريو",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1540.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828732,
+    "name": "ببلز مكسرات",
+    "category": "ببلز",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1542.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828733,
+    "name": "بان كيك بستاشيو",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1464.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828734,
+    "name": "بان كيك ميكس",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1466.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828735,
+    "name": "بان كيك كندر",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1465.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828736,
+    "name": "بان كيك اوريو",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1472.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828737,
+    "name": "بان كيك مكسرات",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1471.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828738,
+    "name": "بان كيك فواكه",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1468.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828739,
+    "name": "بان كيك موز",
+    "category": "بان كيك",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1512.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828740,
+    "name": "شاي",
+    "category": "المشروبات الساخنة",
+    "price": 1000,
+    "imageUrl": "assets/images/ab58600f-e988-47bb-ad63-8ea970318dd9.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828741,
+    "name": "شاي نعناع",
+    "category": "المشروبات الساخنة",
+    "price": 1000,
+    "imageUrl": "assets/images/47a2a4d7-7fc7-4557-93ef-cf2a8f020f5a.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828742,
+    "name": "شاي كرك",
+    "category": "المشروبات الساخنة",
+    "price": 2000,
+    "imageUrl": "assets/images/665efddc-9d85-4af5-8b56-6c4fb2ff727b.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828743,
+    "name": "قهوى تركيه",
+    "category": "المشروبات الساخنة",
+    "price": 2000,
+    "imageUrl": "assets/images/e874ae42-efd6-4412-b55e-e7f8237b5ea7.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828744,
+    "name": "قهوى جقليته",
+    "category": "المشروبات الساخنة",
+    "price": 2000,
+    "imageUrl": "assets/images/94fe8149-5518-4b7d-85f8-af4616443bdb.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828745,
+    "name": "حليب",
+    "category": "المشروبات الساخنة",
+    "price": 2000,
+    "imageUrl": "assets/images/998fd885-bba8-4168-b617-9241960b7bcf.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828746,
+    "name": "حليب بلعسل",
+    "category": "المشروبات الساخنة",
+    "price": 2000,
+    "imageUrl": "assets/images/48d5f60b-f778-48be-8dd7-07c1cd3b72dd.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828747,
+    "name": "هوت جوكليت",
+    "category": "المشروبات الساخنة",
+    "price": 2500,
+    "imageUrl": "assets/images/83a17a8a-88a2-4cc4-9d64-5db5e3e218e1.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828748,
+    "name": "كابشينو",
+    "category": "المشروبات الساخنة",
+    "price": 3000,
+    "imageUrl": "assets/images/24335f16-5616-474c-8179-4e6a4dbf8dbb.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828749,
+    "name": "كراميل ميكاتو",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/0f13db6f-24a3-49f3-bd3f-e492626d3bd9.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828750,
+    "name": "امريكانو",
+    "category": "المشروبات الساخنة",
+    "price": 3000,
+    "imageUrl": "assets/images/a46bd317-ec2b-42a9-9a53-6daece571056.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828751,
+    "name": "موكا",
+    "category": "المشروبات الساخنة",
+    "price": 3500,
+    "imageUrl": "assets/images/6e1b12ea-fd5b-4cf2-8fd8-560a9f2e9a8f.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828752,
+    "name": "وايت موكا",
+    "category": "المشروبات الساخنة",
+    "price": 3500,
+    "imageUrl": "assets/images/b792e1da-555d-4a6b-8003-ab6779d1478e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828753,
+    "name": "لاتيه بلو",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/71db4389-a88a-43fe-a3ac-3bd82b9a613d.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828754,
+    "name": "لاتيه",
+    "category": "المشروبات الساخنة",
+    "price": 3000,
+    "imageUrl": "assets/images/0866551e-9348-44bd-a9d2-799d415f3143.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828755,
+    "name": "لاتيه سبانيش",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/c247f47f-70e2-4ac5-8317-b823a61b10ae.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828756,
+    "name": "لاتيه بستاشيو",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/c221ba82-218e-4270-8435-eae68c91d025.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828757,
+    "name": "لاتيه كراميل",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/27282961-3371-44a5-980c-f676651cb28a.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828758,
+    "name": "لاتيه بندق",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/22841ea0-8ad4-4663-9bcd-da20757f825e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828759,
+    "name": "لاتيه فانيلا",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/69d9232f-760d-4c71-bc9c-ef1767a6809c.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828760,
+    "name": "لاتيه كوكونت",
+    "category": "المشروبات الساخنة",
+    "price": 4000,
+    "imageUrl": "assets/images/ef21d95a-7fac-4072-9c96-698f9f08af81.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828761,
+    "name": "اسبريسو سنكل",
+    "category": "اسبريسو",
+    "price": 2000,
+    "imageUrl": "assets/images/5cee7c22-a81f-4f82-a96a-820332a57768.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828762,
+    "name": "اسبريسو دبل",
+    "category": "اسبريسو",
+    "price": 2500,
+    "imageUrl": "assets/images/5cee7c22-a81f-4f82-a96a-820332a57768.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828763,
+    "name": "اسبريسو ميكاتو",
+    "category": "اسبريسو",
+    "price": 2500,
+    "imageUrl": "assets/images/d5147d5d-d4bd-421a-8a08-7d8dbd8d6138.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828766,
+    "name": "ليمون",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828767,
+    "name": "علك",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828768,
+    "name": "انكيلزي",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828769,
+    "name": "تفاحتين",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828770,
+    "name": "عنب",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828771,
+    "name": "هدوء",
+    "category": "الاراكيل",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828772,
+    "name": "العربه",
+    "category": "الاراكيل",
+    "price": 7000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828773,
+    "name": "تبديل فنجان",
+    "category": "الاراكيل",
+    "price": 3000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828774,
+    "name": "طبيعي اناناس",
+    "category": "الاراكيل",
+    "price": 12000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828775,
+    "name": "طبيعي 15000vip",
+    "category": "الاراكيل",
+    "price": 15000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828776,
+    "name": "دونر ميني",
+    "category": "ساندويش",
+    "price": 1750,
+    "imageUrl": "assets/images/571bd6ad-6b61-44c8-b19e-8c35a17da497.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828777,
+    "name": "دونر وسط",
+    "category": "ساندويش",
+    "price": 3000,
+    "imageUrl": "assets/images/571bd6ad-6b61-44c8-b19e-8c35a17da497.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828780,
+    "name": "صاج كرسبي",
+    "category": "ساندويش",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1599.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828783,
+    "name": "برجر كلاسك",
+    "category": "ساندويش",
+    "price": 4000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.27_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828784,
+    "name": "ريزو كلاسك",
+    "category": "ريزو",
+    "price": 4500,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.03.57_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828785,
+    "name": "سر بوكس",
+    "category": "بوكس",
+    "price": 4000,
+    "imageUrl": "assets/images/54c1fa4b-a28b-48da-a501-3c5c7873cd9c.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828786,
+    "name": "دونر بوكس",
+    "category": "بوكس",
+    "price": 6000,
+    "imageUrl": "assets/images/d3c59ab1-8e3d-40b7-9a2a-83c2314c813e.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828787,
+    "name": "سر سرفيس",
+    "category": "اطباق",
+    "price": 4000,
+    "imageUrl": "assets/images/fbf7e452-a085-4a8b-b4f0-dfe4e510238e.jpeg",
+    "description": "يقدم مع خس وليمون وخبز صاج",
+    "variants": []
+  },
+  {
+    "id": 1763839828788,
+    "name": "جي كفته",
+    "category": "اطباق",
+    "price": 6000,
+    "imageUrl": "assets/images/6e42e785-f85e-44f1-8649-f94213c6226a.jpeg",
+    "description": "يقدم مع خس وليمون وخبز صاج",
+    "variants": []
+  },
+  {
+    "id": 1763839828789,
+    "name": "زنجر",
+    "category": "اطباق",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1606.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828790,
+    "name": "سكالوب",
+    "category": "اطباق",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1605.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828791,
+    "name": "فاهيتا دجاج",
+    "category": "اطباق",
+    "price": 4000,
+    "imageUrl": "assets/images/IMG_1607.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1763839828792,
+    "name": "فاهيتا لحم",
+    "category": "اطباق",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_1608.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764516472533,
+    "name": "لونكو",
+    "category": "اسبريسو",
+    "price": 2000,
+    "imageUrl": "assets/images/14ffdb3e-a25a-45bb-9907-d1c0bb2906a7.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766500191262,
+    "name": "بركر دبل",
+    "category": "ساندويش",
+    "price": 6000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.44_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766500256657,
+    "name": "زنجر",
+    "category": "ساندويش",
+    "price": 4000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.05.22_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766521032393,
+    "name": "ريزو سبايسي",
+    "category": "ريزو",
+    "price": 6000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.15_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766521163487,
+    "name": "ريزو مدخن",
+    "category": "ريزو",
+    "price": 6000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.05_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766521791875,
+    "name": "بركر جبن",
+    "category": "ساندويش",
+    "price": 5000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.36_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766522218126,
+    "name": "وجبه سكالوب",
+    "category": "اطباق",
+    "price": 8000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.04.55_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766522257192,
+    "name": "وجبه زنكر",
+    "category": "اطباق",
+    "price": 8000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.05.04_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766522293293,
+    "name": "وجبه شاورما",
+    "category": "اطباق",
+    "price": 8000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.05.12_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766522346842,
+    "name": "فنكر",
+    "category": "الموهيتو",
+    "price": 3000,
+    "imageUrl": "assets/images/WhatsApp_Image_2025-12-23_at_11.05.32_PM.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766961029462,
+    "name": "فطور",
+    "category": "فطور صباحي",
+    "price": 10000,
+    "imageUrl": "assets/images/IMG_2300.jpeg",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766961130592,
+    "name": "سيزر مع قطعه دجاج",
+    "category": "سلطات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766961147626,
+    "name": "فتوش",
+    "category": "سلطات",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766961174018,
+    "name": "تبوله",
+    "category": "سلطات",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1766961222830,
+    "name": "فنكر",
+    "category": "ساندويش",
+    "price": 3000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  }
+]
